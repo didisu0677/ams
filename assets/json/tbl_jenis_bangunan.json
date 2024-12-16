@@ -1,0 +1,14 @@
+{
+    "field": {
+        "id": "primary_key",
+        "jenis_bangunan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "jenis_bangunan": "Jenis Bangunan",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

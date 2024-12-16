@@ -1,0 +1,14 @@
+{
+    "field": {
+        "id": "primary_key",
+        "skema_kerjasama": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "skema_kerjasama": "Skema Kerjasama",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

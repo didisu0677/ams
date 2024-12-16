@@ -1,0 +1,32 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nomor_kontrak": "varchar",
+        "nama_perusahaan": "varchar",
+        "klasifikasi": "varchar",
+        "lokasi": "varchar",
+        "tanggal_kontrak": "date",
+        "tanggal_akhir_kontrak": "date",
+        "durasi_kontrak": "varchar",
+        "sisa_waktu_kontrak": "varchar",
+        "nilai_kontrak_bulan": "bigint",
+        "nilai_kontrak_tahun": "bigint",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nomor_kontrak": "Nomor Kontrak",
+        "nama_perusahaan": "Nama Perusahaan",
+        "klasifikasi": "Klasifikasi",
+        "lokasi": "Lokasi",
+        "tanggal_kontrak": "Tanggal Kontrak",
+        "tanggal_akhir_kontrak": "Tanggal Akhir Kontrak",
+        "durasi_kontrak": "Durasi Kontrak",
+        "sisa_waktu_kontrak": "Sisa Waktu Kontrak",
+        "nilai_kontrak_bulan": "Nilai Kontrak Bulan",
+        "nilai_kontrak_tahun": "Nilai Kontrak Tahun",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

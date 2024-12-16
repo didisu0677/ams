@@ -1,0 +1,14 @@
+{
+    "field": {
+        "id": "primary_key",
+        "klasifikasi": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "klasifikasi": "Klasifikasi",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

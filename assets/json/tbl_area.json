@@ -1,0 +1,16 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode_area": "varchar",
+        "area": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode_area": "Kode Area",
+        "area": "Area",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}
